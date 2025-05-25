@@ -46,6 +46,12 @@
 * [FAQs](#faqs)
 * [Building](#building)
 
+## Build
+
+- Download ipa file from [Appdb](https://appdb.to/?name=YouTube&compatibility=ios).
+- Upload the file to [File.io](https://file.io).
+- Go to **Actions** tab, then click on **Build and Release uYouPlus**, then click on **Run workflow**, paste the URL & **Run Workflow**.
+
 ## Download
 
 - The latest version of **uYouPlus** can be found under [Releases](https://github.com/qnblackcat/uYouPlus/releases/latest).
